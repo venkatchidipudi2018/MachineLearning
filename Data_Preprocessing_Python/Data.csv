@@ -1,0 +1,11 @@
+City,Age,Salary,Purchased
+Hyderabad,40,70000,No
+Chennai,30,45000,Yes
+Bangalore,50,52000,No
+Chennai,34,47000,No
+Bangalore,40,,Yes
+Hyderabad,53,53000,Yes
+Chennai,,50000,No
+Hyderabad,32,73000,Yes
+Bangalore,31,83000,No
+Hyderabad,33,55000,Yes
