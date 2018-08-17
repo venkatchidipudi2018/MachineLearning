@@ -14,7 +14,8 @@ X = dataset.iloc[:, 1:2].values
 Y = dataset.iloc[:, 2].values
 
 # Fitting the Regression Model to the dataset
-#Fitting Multiple Linear Regression to the training set
+
+# Create your regressor here
 from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
 regressor.fit(X, Y)
