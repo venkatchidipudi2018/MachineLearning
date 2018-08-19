@@ -23,7 +23,7 @@ sc_X = StandardScaler()
 X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.transform(X_test)
 
-# Fitting Logistic Regression to the Training set
+# Fitting K-NN to the Training set
 from sklearn.neighbors import KNeighborsClassifier
 classifier = KNeighborsClassifier(n_neighbors  = 5, metric  = "minkowski", p = 2)
 classifier.fit(X_train, Y_train)
