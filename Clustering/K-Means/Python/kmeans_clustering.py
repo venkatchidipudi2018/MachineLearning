@@ -2,7 +2,6 @@
 @author: venkatchidipudi
 """
 # K-Means Clustering Model
-#%reset -f
 
 # Importing the libraries
 import numpy as np
