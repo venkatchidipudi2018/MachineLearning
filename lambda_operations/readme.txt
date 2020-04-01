@@ -1,1 +1,1 @@
-Folder contains imporatant lambda operations like filter, map, reduce etc.
+Folder contains imporatant lambda operations examples like filter, map and reduce etc.
